@@ -45,5 +45,11 @@ The data is loaded and displayed on the main page.
 ## Running the Portfolio
 To run the portfolio website, make sure you have Streamlit and other required dependencies installed. You can run it using the following command:
 
-```bash
+```
 streamlit run main.py
+```
+
+## License
+
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
+
